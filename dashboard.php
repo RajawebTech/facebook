@@ -89,7 +89,7 @@ if(!isset($_SESSION['user'])){
                 <div class="cover"></div>
 
                 <div class="position-absolute" style="bottom:-80px; left:40px;">
-                    <img src="images/test.jpeg" class="profile-img">
+                    <img src="test.jpeg" class="profile-img">
                 </div>
 
             </div>
